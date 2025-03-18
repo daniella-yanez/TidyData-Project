@@ -42,7 +42,9 @@ Issues:
 
 - Below is an example of how with 30 rows and 4 columns, we only learn about 3 medals given. Absolute Chaos.
  <img width="916" alt="Screenshot 2025-03-18 at 7 25 28 AM" src="https://github.com/user-attachments/assets/55b6659c-d2ca-463b-8dbc-f820a00d4011" />
+
 ### ** Visual Examples of Improved, Tidy Dataset**  
+
 <img width="350" alt="Screenshot 2025-03-18 at 7 28 48 AM" src="https://github.com/user-attachments/assets/bc9bf35f-8aec-4b99-a25d-3e97aa9fac0c" />
 
 
