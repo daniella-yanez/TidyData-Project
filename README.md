@@ -1,4 +1,4 @@
-**#Tidy Data Project**  
+**# Tidy Data Project**  
 
 ### **Project Overview**  
 This project focuses on restructuring a dataset of Olympic medalists from the 2008 Olympics into a **tidy format**, following **tidy data principles** as outlined by Hadley Wickham. The goal is to:  
